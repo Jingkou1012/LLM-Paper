@@ -9,9 +9,10 @@
 ---
 ## Transformer
 - 170612 - Google - Transformer - Attention is All You Need - [arXiv](https://arxiv.org/abs/1706.03762)
+- 181011 - Google - BERT - Bidirectional Encoder Representations from Transformers - [arXiv](https://arxiv.org/abs/1810.04805)
 ---
 ## Large Language Model
-- 180611 - OpenAI - GPT -  Improving Language Understanding by Generative Pre-Trainin - [Report](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- 180611 - OpenAI - GPT -  Improving Language Understanding by Generative Pre-Training - [Report](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 ---
 ## Fine-tuning
 
