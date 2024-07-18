@@ -20,6 +20,8 @@
 - 210226 - OpenAI - CLIP - Learning Transferable Visual Models From Natural Language Supervision - [arXiv](https://arxiv.org/abs/2103.00020)
 - 230227 - Meta - Llama - Open and Efficient Foundation Language Models - [arXiv](https://arxiv.org/abs/2302.13971)
 - 230315 - OpenAI - GPT-4 - GPT-4 Technical Report - [arXiv](https://arxiv.org/abs/2303.08774)
+- 230718 - Meta - Llama 2 - Open Foundation and Fine-Tuned Chat Models ![image](https://github.com/user-attachments/assets/355a230a-d702-4e29-9ee8-6eba6a118093)
+
 ---
 ## Fine-tuning
 
