@@ -46,6 +46,5 @@
 ## ♥️ Acknowledgement
 
 ---
-## ⭐ Star
-## Star History
+## ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=Jingkou1012/LLM-Collection&type=Date)](https://star-history.com/#Jingkou1012/LLM-Collection&Date)
