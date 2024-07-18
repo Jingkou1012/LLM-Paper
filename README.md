@@ -21,6 +21,7 @@
 - 230227 - Meta - Llama - Open and Efficient Foundation Language Models - [arXiv](https://arxiv.org/abs/2302.13971)
 - 230315 - OpenAI - GPT-4 - GPT-4 Technical Report - [arXiv](https://arxiv.org/abs/2303.08774)
 - 230718 - Meta - Llama 2 - Open Foundation and Fine-Tuned Chat Models - [arXiv](https://arxiv.org/abs/2307.09288)
+- 230925 - OpenAI - GPT-4V - GPT-4V(ision) System Card - [Report](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
 ---
 ## Fine-tuning
 
