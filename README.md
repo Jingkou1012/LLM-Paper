@@ -11,7 +11,6 @@
 - 170612 - Google - Transformer - Attention is All You Need - [arXiv](https://arxiv.org/abs/1706.03762)
 - 181011 - Google - BERT - Bidirectional Encoder Representations from Transformers - [arXiv](https://arxiv.org/abs/1810.04805)
 - 201022 - Google - ViT - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale - [arXiv](https://arxiv.org/abs/2010.11929)
-- 221220 - OpenDriveLab - UniAD - Planning-oriented Autonomous Driving - [arXiv](https://arxiv.org/abs/2212.10156)
 ---
 ## Large Language Model
 - 180611 - OpenAI - GPT -  Improving Language Understanding by Generative Pre-Training - [Report](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
@@ -34,6 +33,9 @@
 - 230417 - Haotian Liu - LLaVA - Visual Instruction Tuning - [arXiv](https://arxiv.org/abs/2304.08485)
 - 231005 - Haotian Liu - LLaVA 1.5 - Improved Baselines with Visual Instruction Tuning - [arXiv](https://arxiv.org/abs/2310.03744)
 - 240130 - Haotian Liu - LLaVA-NeXT - Improved Reasoning, OCR, and World Knowledge - [blog](https://llava-vl.github.io/blog/2024-01-30-llava-next/)
+---
+## Autonomous Driving
+- 221220 - OpenDriveLab - UniAD - Planning-oriented Autonomous Driving - [arXiv](https://arxiv.org/abs/2212.10156)
 ---
 ## Acknowledgement
 
