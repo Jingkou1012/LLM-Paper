@@ -11,7 +11,7 @@
 - 170612 - Google - Transformer - Attention is All You Need - [arXiv](https://arxiv.org/abs/1706.03762)
 ---
 ## Large Language Model
-
+- 180611 - OpenAI - GPT -  Improving Language Understanding by Generative Pre-Trainin - [Report](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 ---
 ## Fine-tuning
 
