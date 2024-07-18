@@ -18,6 +18,7 @@
 - 190214 - OpenAI - GPT-2 - Language Models are Unsupervised Multitask Learners - [Report](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 - 200528 - OpenAI - GPT-3 - Language Models are Few-Shot Learners - [arXiv](https://arxiv.org/abs/2005.14165)
 - 210226 - OpenAI - CLIP - Learning Transferable Visual Models From Natural Language Supervision - [arXiv](https://arxiv.org/abs/2103.00020)
+- 230227 - Meta - Llama - Open and Efficient Foundation Language Models - [arXiv](https://arxiv.org/abs/2302.13971)
 ---
 ## Fine-tuning
 
