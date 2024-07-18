@@ -9,8 +9,7 @@
 ---
 ## Transformer
 - Paper
-  - 170612 Google Transformer
-    - Attention is All You Need [arXiv](https://arxiv.org/abs/1706.03762)
+  - 170612 Google Transformer Attention is All You Need [arXiv](https://arxiv.org/abs/1706.03762)
 ---
 ## Large Language Model
 
