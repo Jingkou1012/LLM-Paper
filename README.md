@@ -22,7 +22,7 @@
 - 230718 - Meta - Llama 2 - Open Foundation and Fine-Tuned Chat Models - [arXiv](https://arxiv.org/abs/2307.09288)
 - 231219 - Google - Gemini - A Family of Highly Capable Multimodal Models - [arXiv](https://arxiv.org/abs/2312.11805)
 - 240221 - Google - Gemma - Open Models Based on Gemini Research and Technology - [Report](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)
-- 240308 - Google - Gemini 1.5 - Unlocking multimodal understanding across millions of tokens of context - [arXiv](https://arxiv.org/abs/2403.05530)
+- 240308 - Google - Gemini 1.5 - Unlocking Multimodal Understanding across Millions of Tokens of Context - [arXiv](https://arxiv.org/abs/2403.05530)
 ---
 ## Fine-tuning
 
