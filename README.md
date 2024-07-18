@@ -23,6 +23,7 @@
 - 231219 - Google - Gemini - A Family of Highly Capable Multimodal Models - [arXiv](https://arxiv.org/abs/2312.11805)
 - 240221 - Google - Gemma - Open Models Based on Gemini Research and Technology - [Report](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)
 - 240308 - Google - Gemini 1.5 - Unlocking Multimodal Understanding across Millions of Tokens of Context - [arXiv](https://arxiv.org/abs/2403.05530)
+- 240418 - Meta - Llama 3 - Introducing Meta Llama 3: The most capable openly available LLM to date - [blog](https://ai.meta.com/blog/meta-llama-3/)
 - 240627 - Google - Gemma 2 - Improving Open Language Models at a Practical Size - [Report](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
 ---
 ## Fine-tuning
