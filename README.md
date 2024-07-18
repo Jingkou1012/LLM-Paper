@@ -20,8 +20,8 @@
 - 230227 - Meta - Llama - Open and Efficient Foundation Language Models - [arXiv](https://arxiv.org/abs/2302.13971)
 - 230315 - OpenAI - GPT-4 - GPT-4 Technical Report - [arXiv](https://arxiv.org/abs/2303.08774)
 - 230718 - Meta - Llama 2 - Open Foundation and Fine-Tuned Chat Models - [arXiv](https://arxiv.org/abs/2307.09288)
-- 230925 - OpenAI - GPT-4V - GPT-4V(ision) System Card - [Report](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
 - 231219 - Google - Gemini - A Family of Highly Capable Multimodal Models - [arXiv](https://arxiv.org/abs/2312.11805)
+- 240221 - Google - Gemma - Open Models Based on Gemini Research and Technology - [Report](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)
 ---
 ## Fine-tuning
 
@@ -31,6 +31,7 @@
 ---
 ## Vision Large Model
 - 230417 - Haotian Liu - LLaVA - Visual Instruction Tuning - [arXiv](https://arxiv.org/abs/2304.08485)
+- 230925 - OpenAI - GPT-4V - GPT-4V(ision) System Card - [Report](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
 - 231005 - Haotian Liu - LLaVA 1.5 - Improved Baselines with Visual Instruction Tuning - [arXiv](https://arxiv.org/abs/2310.03744)
 - 240130 - Haotian Liu - LLaVA-NeXT - Improved Reasoning, OCR, and World Knowledge - [blog](https://llava-vl.github.io/blog/2024-01-30-llava-next/)
 ---
