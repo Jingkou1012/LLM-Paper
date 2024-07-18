@@ -22,6 +22,7 @@
 - 230315 - OpenAI - GPT-4 - GPT-4 Technical Report - [arXiv](https://arxiv.org/abs/2303.08774)
 - 230718 - Meta - Llama 2 - Open Foundation and Fine-Tuned Chat Models - [arXiv](https://arxiv.org/abs/2307.09288)
 - 230925 - OpenAI - GPT-4V - GPT-4V(ision) System Card - [Report](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
+- 231219 - Google - Gemini - A Family of Highly Capable Multimodal Models - [arXiv](https://arxiv.org/abs/2312.11805)
 ---
 ## Fine-tuning
 
