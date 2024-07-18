@@ -40,7 +40,7 @@
 - 240130 - Haotian Liu - LLaVA-NeXT - Improved Reasoning, OCR, and World Knowledge - [blog](https://llava-vl.github.io/blog/2024-01-30-llava-next/)
 - 240514 - Google - PaliGemma - Google's Cutting-Edge Open Vision Language Model - [blog](https://huggingface.co/blog/paligemma)
 ---
-## Autonomous Driving
+## 🚗 Autonomous Driving
 - 221220 - OpenDriveLab - UniAD - Planning-Oriented Autonomous Driving - [arXiv](https://arxiv.org/abs/2212.10156)
 - 240219 - Tsinghua - DriveVLM - The Convergence of Autonomous Driving and Large Vision-Language Models - [arXiv](https://arxiv.org/abs/2402.12289)
 ---
