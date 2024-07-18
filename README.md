@@ -28,7 +28,9 @@
 
 ---
 ## Vision Large Model
-
+- 230417 - Haotian Liu - LLaVA - Visual Instruction Tuning - [arXiv](https://arxiv.org/abs/2304.08485)
+- 231005 - Haotian Liu - LlaVA 1.5 - Improved Baselines with Visual Instruction Tuning - [arXiv](https://arxiv.org/abs/2310.03744)
+- 240130 - Haotian Liu - LLaVA-NeXT - Improved Reasoning, OCR, and World Knowledge - [blog](https://llava-vl.github.io/blog/2024-01-30-llava-next/)
 ---
 ## Acknowledgement
 
