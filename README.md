@@ -36,6 +36,7 @@
 ---
 ## Autonomous Driving
 - 221220 - OpenDriveLab - UniAD - Planning-oriented Autonomous Driving - [arXiv](https://arxiv.org/abs/2212.10156)
+- 240219 - Tsinghua - DriveVLM - The Convergence of Autonomous Driving and Large Vision-Language Models - [arXiv](https://arxiv.org/abs/2402.12289)
 ---
 ## Acknowledgement
 
