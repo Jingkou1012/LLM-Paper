@@ -27,7 +27,7 @@
 - 240513 - OpenAI - GPT-4o - Hello GPT-4o - [page](https://openai.com/index/hello-gpt-4o/)
 - 240627 - Google - Gemma 2 - Improving Open Language Models at a Practical Size - [Report](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
 ---
-## Fine-tuning
+## 📏 Fine-tuning
 
 ---
 ## Retrieval Augmented Generation
