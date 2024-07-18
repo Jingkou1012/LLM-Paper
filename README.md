@@ -33,7 +33,7 @@
 ## Retrieval Augmented Generation
 
 ---
-## Vision Large Model
+## 📷 Vision Large Model
 - 230417 - Haotian Liu - LLaVA - Visual Instruction Tuning - [arXiv](https://arxiv.org/abs/2304.08485)
 - 230925 - OpenAI - GPT-4V - GPT-4V(ision) System Card - [Report](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
 - 231005 - Haotian Liu - LLaVA 1.5 - Improved Baselines with Visual Instruction Tuning - [arXiv](https://arxiv.org/abs/2310.03744)
