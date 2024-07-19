@@ -3,7 +3,7 @@
 > The limits of my language mean the limites of my world. - Ludwig Wittgenstein
 
 ---
-## 👨‍🏫 Overview
+## 🎓 Overview
 - 230331 - RUCAIBox - Survey - A Survey of Large Language Models - [arXiv](https://arxiv.org/abs/2303.18223)
 ---
 ## 👑 Transformer
