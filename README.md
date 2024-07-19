@@ -58,7 +58,7 @@ This repository serves as a central hub for all things related to Large Language
 ---
 ## 🛠️ Deployment
 
-- Ollama - [![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=social)](https://github.com/ollama/ollama)
+- Ollama - Get up and running with large language models. - [![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=social)](https://github.com/ollama/ollama)
 
 ---
 ## 💭 Deep Dive
