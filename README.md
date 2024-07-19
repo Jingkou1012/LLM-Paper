@@ -60,6 +60,7 @@ This repository serves as a central hub for all things related to Large Language
 
 - Ollama - Get up and running with large language models - [![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=social)](https://github.com/ollama/ollama)
 - LangChain - Build context-aware reasoning applications - [![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)](https://github.com/langchain-ai/langchain)
+- Open WebUI - User-friendly WebUI for LLMs (Formerly Ollama WebUI) - [![GitHub Repo stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)](https://github.com/open-webui/open-webui)
 
 ---
 ## 💭 Deep Dive
