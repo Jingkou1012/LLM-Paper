@@ -29,7 +29,7 @@ This repository serves as a hub for all things related to Large Language Models.
 - 240627 - Google - Gemma 2 - Improving Open Language Models at a Practical Size - [report](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
 ---
 ## 📏 Fine-tuning
-
+- 210617 - Microsoft - LoRA - Low-Rank Adaptation of Large Language Models - [arXiv](https://arxiv.org/abs/2106.09685)
 ---
 ## 👨‍🏫 Reinforcement Learning from Human Feedback
 
