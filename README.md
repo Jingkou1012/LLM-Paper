@@ -32,7 +32,7 @@ This repository serves as a hub for all things related to Large Language Models.
 - 210617 - Microsoft - LoRA - Low-Rank Adaptation of Large Language Models - [arXiv](https://arxiv.org/abs/2106.09685)
 ---
 ## 👨‍🏫 Reinforcement Learning from Human Feedback
-- 220304 - OpenAI - RLHF - Training Language Models to Follow Instructions with Human Feedback - [arXiv](https://arxiv.org/abs/2203.02155)
+- 220304 - OpenAI - InstructGPT - Training Language Models to Follow Instructions with Human Feedback - [arXiv](https://arxiv.org/abs/2203.02155)
 ---
 ## 📚 Retrieval Augmented Generation
 
