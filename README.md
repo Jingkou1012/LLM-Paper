@@ -57,7 +57,7 @@ This repository serves as a central hub for all things related to Large Language
 - 240219 - Tsinghua - DriveVLM - The Convergence of Autonomous Driving and Large Vision-Language Models - [arXiv](https://arxiv.org/abs/2402.12289)
 ---
 ## 🛠️ Deployment
-[<img src="[https://github.com/ollama/ollama](https://avatars.githubusercontent.com/u/151674099?s=48&v=4)">](https://avatars.githubusercontent.com/u/151674099?s=48&v=4)
+![ollama](https://avatars.githubusercontent.com/u/126733545?s=48&v=4)
 ---
 ## 💭 Deep Dive
 - Lil'Log - [blog](https://lilianweng.github.io/)
