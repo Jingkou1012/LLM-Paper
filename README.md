@@ -31,10 +31,10 @@ This repository serves as a hub for all things related to Large Language Models.
 ## 📏 Fine-tuning
 
 ---
-## 📏 Reinforcement Learning from Human Feedback
+## 👨‍🏫 Reinforcement Learning from Human Feedback
 
 ---
-## 👨‍🏫 Retrieval Augmented Generation
+## 📚 Retrieval Augmented Generation
 
 ---
 ## 📷 Vision Large Model
