@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/Jingkou1012/LLM-Collection/blob/main/LLM-Study.jpg">
 </p>
-# LLM-Collection
+
+## LLM-Collection
 
 > The limits of my language mean the limites of my world. - Ludwig Wittgenstein
 
