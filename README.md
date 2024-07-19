@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Jingkou1012/LLM-Collection/blob/main/LLM-Study.jpg">
+  <img src="https://github.com/Jingkou1012/LLM-Collection/blob/main/Title-Img.jpg">
 </p>
 
 ## LLM-Collection
