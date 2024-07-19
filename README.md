@@ -33,7 +33,7 @@ This repository serves as a hub for all things related to Large Language Models.
 ---
 ## 👨‍🏫 Reinforcement Learning from Human Feedback
 - 170612 - OpenAI & Google - Reinforcement Learning - Deep Reinforcement Learning from Human Preferences - [arXiv](https://arxiv.org/abs/1706.03741)
-- 200902 - OpenAI - Human Feedback - Learning to summarize from human feedback - [arXiv](https://arxiv.org/abs/2009.01325)
+- 200902 - OpenAI - Human Feedback - Learning to Summarize from Human Feedback - [arXiv](https://arxiv.org/abs/2009.01325)
 - 220304 - OpenAI - InstructGPT - Training Language Models to Follow Instructions with Human Feedback - [arXiv](https://arxiv.org/abs/2203.02155)
 ---
 ## 📚 Retrieval Augmented Generation
