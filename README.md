@@ -10,7 +10,7 @@ This repository serves as a hub for all things related to Large Language Models.
 ---
 ## 👑 Transformer Realted
 - 170612 - Google - Transformer - Attention is All You Need - [arXiv](https://arxiv.org/abs/1706.03762)
-- 181011 - Google - BERT - Bidirectional Encoder Representations from Transformers - [arXiv](https://arxiv.org/abs/1810.04805)
+- 181011 - Google - BERT - Pre-Training of Deep Bidirectional Transformers for Language Understanding - [arXiv](https://arxiv.org/abs/1810.04805)
 - 201022 - Google - ViT - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale - [arXiv](https://arxiv.org/abs/2010.11929)
 ---
 ## 🧠 Large Language Model
