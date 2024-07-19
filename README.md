@@ -42,7 +42,7 @@ This repository serves as a hub for all things related to Large Language Models.
 - 220304 - OpenAI - InstructGPT - Training Language Models to Follow Instructions with Human Feedback - [arXiv](https://arxiv.org/abs/2203.02155)
 ---
 ## 📚 Retrieval Augmented Generation
-
+- 240424 - Microsoft - Graph RAG - From Local to Global: A Graph RAG Approach to Query-Focused Summarization - [arXiv](https://arxiv.org/abs/2404.16130)
 ---
 ## 📷 Vision Large Model
 - 230417 - Haotian Liu - LLaVA - Visual Instruction Tuning - [arXiv](https://arxiv.org/abs/2304.08485)
