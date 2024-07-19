@@ -63,11 +63,8 @@ This repository serves as a hub for all things related to Large Language Models.
 - Open LLM Leaderboard - [HF](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
 ---
 ## ♥️ Contributing
-This repository is a living, breathing project, and your contributions are what keep it thriving!
 
-If you've got an idea, a fix, or even just a suggestion, don't hesitate to submit a pull request. I'll keep some pull requests open for discussion, especially if I'm not quite sure if they're a perfect fit for the LLM.
-
-Your feedback and contributions are invaluable in shaping the future of this project.  Let's collaborate and make this repository the best it can be!
+This project is really important to me, and I'm always looking for ways to make it better. If you have any ideas, fixes, or even just suggestions, please send them my way! I'm open to discussing any pull requests, especially if we need to figure out how they fit with the LLM. Your feedback means a lot to me, so let's work together and make this the best repository it can be!
 
 ---
 ## ⭐ Star History
