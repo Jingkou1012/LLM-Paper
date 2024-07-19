@@ -45,7 +45,12 @@ This repository serves as a hub for all things related to Large Language Models.
 - 221220 - OpenDriveLab - UniAD - Planning-Oriented Autonomous Driving - [arXiv](https://arxiv.org/abs/2212.10156)
 - 240219 - Tsinghua - DriveVLM - The Convergence of Autonomous Driving and Large Vision-Language Models - [arXiv](https://arxiv.org/abs/2402.12289)
 ---
-## ♥️ Acknowledgement
+## ♥️ Contributing
+This repository is a living, breathing project, and your contributions are what keep it thriving!
+
+If you've got an idea, a fix, or even just a suggestion, don't hesitate to submit a pull request. I'll keep some pull requests open for discussion, especially if I'm not quite sure if they're a perfect fit for the LLM.  If you see a pull request you like, give it a thumbs up (👍) to show your support!
+
+Your feedback and contributions are invaluable in shaping the future of this project.  Let's collaborate and make this repository the best it can be!
 
 ---
 ## ⭐ Star History
