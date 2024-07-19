@@ -48,7 +48,7 @@ This repository serves as a hub for all things related to Large Language Models.
 ## ♥️ Contributing
 This repository is a living, breathing project, and your contributions are what keep it thriving!
 
-If you've got an idea, a fix, or even just a suggestion, don't hesitate to submit a pull request. I'll keep some pull requests open for discussion, especially if I'm not quite sure if they're a perfect fit for the LLM.  If you see a pull request you like, give it a thumbs up (👍) to show your support!
+If you've got an idea, a fix, or even just a suggestion, don't hesitate to submit a pull request. I'll keep some pull requests open for discussion, especially if I'm not quite sure if they're a perfect fit for the LLM.
 
 Your feedback and contributions are invaluable in shaping the future of this project.  Let's collaborate and make this repository the best it can be!
 
