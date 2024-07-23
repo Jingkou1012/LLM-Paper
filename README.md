@@ -31,6 +31,7 @@ This repository serves as a central hub for all things related to Large Language
 - 240418 - Meta - Llama 3 - Introducing Meta Llama 3: The most capable openly available LLM to date - [blog](https://ai.meta.com/blog/meta-llama-3/)
 - 240513 - OpenAI - GPT-4o - Hello GPT-4o - [page](https://openai.com/index/hello-gpt-4o/)
 - 240627 - Google - Gemma 2 - Improving Open Language Models at a Practical Size - [report](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
+- 240718 - OpenAi - GPT-4o mini - GPT-4o mini: Advancing Cost-Efficient Intelligence - [page](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 ---
 ## 📏 Fine-Tuning
 - 210617 - Microsoft - LoRA - Low-Rank Adaptation of Large Language Models - [arXiv](https://arxiv.org/abs/2106.09685)
