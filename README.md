@@ -34,6 +34,9 @@ This repository serves as a central hub for all things related to Large Language
 - 240718 - OpenAi - GPT-4o mini - GPT-4o mini: Advancing Cost-Efficient Intelligence - [page](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 - 240723 - Meta - Llama 3.1 - The Llama 3 Herd of Models - [blog](https://ai.meta.com/blog/meta-llama-3-1/) [paper](https://scontent.fsin15-2.fna.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=t6egZJ8QdI4Q7kNvgFtFzvs&_nc_ht=scontent.fsin15-2.fna&oh=00_AYB-GFK6fEfINdSp2aOXtidS6BdWj-eRNVdnni0UD70p3Q&oe=66A67B0D)
 ---
+## 🎇 Feature
+- 220128 - Google - Chain of Thought - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models - [arXiv](https://arxiv.org/abs/2201.11903)
+- --
 ## 📏 Fine-Tuning
 - 210617 - Microsoft - LoRA - Low-Rank Adaptation of Large Language Models - [arXiv](https://arxiv.org/abs/2106.09685)
 - 230523 - University of Washington - QLoRA - Efficient Finetuning of Quantized LLMs - [arXiv](https://arxiv.org/abs/2305.14314)
