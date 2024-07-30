@@ -23,6 +23,7 @@ This repository serves as a central hub for all things related to Large Language
 - 200528 - OpenAI - GPT-3 - Language Models are Few-Shot Learners - [arXiv](https://arxiv.org/abs/2005.14165)
 - 220304 - OpenAI - InstructGPT - Training Language Models to Follow Instructions with Human Feedback - [arXiv](https://arxiv.org/abs/2203.02155)
 - 230315 - OpenAI - GPT-4 - GPT-4 Technical Report - [arXiv](https://arxiv.org/abs/2303.08774)
+- 230925 - OpenAI - GPT-4V - GPT-4V(ision) System Card - [report](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
 - 240513 - OpenAI - GPT-4o - Hello GPT-4o - [page](https://openai.com/index/hello-gpt-4o/)
 ---
 ## Llama
@@ -57,7 +58,6 @@ This repository serves as a central hub for all things related to Large Language
 ---
 ## 📷 Vision Large Model
 - 230417 - Haotian Liu - LLaVA - Visual Instruction Tuning - [arXiv](https://arxiv.org/abs/2304.08485)
-- 230925 - OpenAI - GPT-4V - GPT-4V(ision) System Card - [report](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
 - 231005 - Haotian Liu - LLaVA 1.5 - Improved Baselines with Visual Instruction Tuning - [arXiv](https://arxiv.org/abs/2310.03744)
 - 240130 - Haotian Liu - LLaVA-NeXT - Improved Reasoning, OCR, and World Knowledge - [blog](https://llava-vl.github.io/blog/2024-01-30-llava-next/)
 - 240514 - Google - PaliGemma - Google's Cutting-Edge Open Vision Language Model - [blog](https://huggingface.co/blog/paligemma)
