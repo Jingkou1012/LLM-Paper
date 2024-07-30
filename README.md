@@ -43,6 +43,7 @@ This repository serves as a central hub for all things related to Large Language
 ---
 ## 👨‍🏫 Reinforcement Learning from Human Feedback
 - 170612 - OpenAI & Google - Reinforcement Learning - Deep Reinforcement Learning from Human Preferences - [arXiv](https://arxiv.org/abs/1706.03741)
+- 170720 - OpenAI - Proximal Policy Optimization - Proximal Policy Optimization Algorithms - [arXiv](https://arxiv.org/abs/1707.06347)
 - 200902 - OpenAI - Human Feedback - Learning to Summarize from Human Feedback - [arXiv](https://arxiv.org/abs/2009.01325)
 - 220304 - OpenAI - InstructGPT - Training Language Models to Follow Instructions with Human Feedback - [arXiv](https://arxiv.org/abs/2203.02155)
 ---
