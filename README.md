@@ -49,6 +49,8 @@ This repository serves as a central hub for all things related to Large Language
 - 210101 - Stanford University - Prefix Tuning - Optimizing Continuous Prompts for Generation - [arXiv](https://arxiv.org/abs/2101.00190)
 - 210418 - Google - Prompt Tuning - The Power of Scale for Parameter-Efficient Prompt Tuning - [arXiv](https://arxiv.org/abs/2104.08691)
 - 210617 - Microsoft - LoRA - Low-Rank Adaptation of Large Language Models - [arXiv](https://arxiv.org/abs/2106.09685)
+---
+## Quantization
 - 230523 - University of Washington - QLoRA - Efficient Finetuning of Quantized LLMs - [arXiv](https://arxiv.org/abs/2305.14314)
 ---
 ## 👨‍🏫 Reinforcement Learning from Human Feedback
