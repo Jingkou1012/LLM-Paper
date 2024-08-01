@@ -13,7 +13,7 @@ This repository serves as a central hub for all things related to Large Language
 - 230331 - RUCAIBox - Survey - A Survey of Large Language Models - [arXiv](https://arxiv.org/abs/2303.18223)
 ---
 ## 👑 Transformer Related
-- 170612 - Google - Transformer - Attention is All You Need - [arXiv](https://arxiv.org/abs/1706.03762) - [](https://scholar.google.com/scholar?cites=2960712678066186980&as_sdt=2005&sciodt=0,5&hl=en)
+- 170612 - Google - Transformer - Attention is All You Need - [arXiv](https://arxiv.org/abs/1706.03762) - [![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.1706.03762-blue)](https://doi.org/10.48550/arXiv.1706.03762)
 - 181011 - Google - BERT - Pre-Training of Deep Bidirectional Transformers for Language Understanding - [arXiv](https://arxiv.org/abs/1810.04805)
 - 200526 - Facebook - DETR - End-to-End Object Detection with Transformers - [arXiv](https://arxiv.org/abs/2005.12872)
 - 201022 - Google - ViT - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale - [arXiv](https://arxiv.org/abs/2010.11929)
