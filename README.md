@@ -29,6 +29,7 @@ This repository serves as a central hub for all things related to Large Language
 - 230315 - OpenAI - GPT-4 - GPT-4 Technical Report - [arXiv](https://arxiv.org/abs/2303.08774)
 - 230925 - OpenAI - GPT-4V - GPT-4V(ision) System Card - [report](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
 - 240513 - OpenAI - GPT-4o - Hello GPT-4o - [page](https://openai.com/index/hello-gpt-4o/)
+- 240718 - OpenAi - GPT-4o mini - GPT-4o mini: Advancing Cost-Efficient Intelligence - [page](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 ---
 ## Llama
 - 230227 - Meta - Llama - Open and Efficient Foundation Language Models - [arXiv](https://arxiv.org/abs/2302.13971)
@@ -42,7 +43,6 @@ This repository serves as a central hub for all things related to Large Language
 - 240221 - Google - Gemma - Open Models Based on Gemini Research and Technology - [report](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)
 - 240308 - Google - Gemini 1.5 - Unlocking Multimodal Understanding across Millions of Tokens of Context - [arXiv](https://arxiv.org/abs/2403.05530)
 - 240627 - Google - Gemma 2 - Improving Open Language Models at a Practical Size - [report](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
-- 240718 - OpenAi - GPT-4o mini - GPT-4o mini: Advancing Cost-Efficient Intelligence - [page](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 ---
 ## 🎇 Feature
 - 220128 - Google - Chain of Thought - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models - [arXiv](https://arxiv.org/abs/2201.11903)
