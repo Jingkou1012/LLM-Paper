@@ -21,12 +21,31 @@ This repository serves as a central hub for all things related to Large Language
 - 200526 - Facebook - DETR - End-to-End Object Detection with Transformers - [arXiv](https://arxiv.org/abs/2005.12872)
 - 201022 - Google - ViT - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale - [arXiv](https://arxiv.org/abs/2010.11929)
 ---
-## GPT
-- 180611 - OpenAI - GPT -  Improving Language Understanding by Generative Pre-Training - [report](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
-- 190214 - OpenAI - GPT-2 - Language Models are Unsupervised Multitask Learners - [report](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-- 200528 - OpenAI - GPT-3 - Language Models are Few-Shot Learners - [arXiv](https://arxiv.org/abs/2005.14165)
+## 180611 - GPT - Improving Language Understanding by Generative Pre-Training - [report](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+
+TBD
+
+---
+## 190214 - GPT-2 - Language Models are Unsupervised Multitask Learners - [report](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+
+TBD
+
+---
+## 200528 - GPT-3 - Language Models are Few-Shot Learners - [arXiv](https://arxiv.org/abs/2005.14165)
+
+TBD
+
+---
+## 230315 - GPT-4 - GPT-4 Technical Report - [arXiv](https://arxiv.org/abs/2303.08774)
+
+TBD
+
+---
+##
+- 
+- 
 - 220304 - OpenAI - InstructGPT - Training Language Models to Follow Instructions with Human Feedback - [arXiv](https://arxiv.org/abs/2203.02155)
-- 230315 - OpenAI - GPT-4 - GPT-4 Technical Report - [arXiv](https://arxiv.org/abs/2303.08774)
+- 
 - 230925 - OpenAI - GPT-4V - GPT-4V(ision) System Card - [report](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
 - 240513 - OpenAI - GPT-4o - Hello GPT-4o - [page](https://openai.com/index/hello-gpt-4o/)
 - 240718 - OpenAi - GPT-4o mini - GPT-4o mini: Advancing Cost-Efficient Intelligence - [page](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
