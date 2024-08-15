@@ -6,7 +6,7 @@ This repository serves as a central hub for all things related to Large Language
 ## 📌 Template
 - YYMMDD - Item - Title - Citations - [link](https:)
 ---
-## 🎓 Overview
+## 🎓 Survey
 - 230331 - Survey - A Survey of Large Language Models - 2070 - [arXiv](https://arxiv.org/abs/2303.18223)
 ---
 ## 👑 Transformer
