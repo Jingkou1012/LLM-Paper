@@ -3,7 +3,7 @@
 This repository serves as a central hub for all things related to Large Language Models (LLMs). Whether you’re a researcher, developer, or simply curious about LLMs, you’ll find valuable content here to enhance your understanding and work with these remarkable language models. 
 
 ---
-## Overview
+## 🚀 Overview
 - 230331 - Survey - A Survey of Large Language Models - 2070 - [arXiv](https://arxiv.org/abs/2303.18223)
 ---
 ## Natural Language Processing
@@ -54,5 +54,5 @@ This project holds great significance for me, and I’m constantly seeking ways 
 Thansk a lot!
 
 ---
-## Star History
+## ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=Jingkou1012/LLM-Paper&type=Date)](https://star-history.com/#Jingkou1012/LLM-Paper&Date)
