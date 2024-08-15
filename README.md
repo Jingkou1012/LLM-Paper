@@ -24,7 +24,7 @@ This repository serves as a central hub for all things related to Large Language
 ## 😊 Llama
 - 230227 - Llama - Open and Efficient Foundation Language Models - 7880 - [arXiv](https://arxiv.org/abs/2302.13971)
 - 230718 - Llama 2 - Open Foundation and Fine-Tuned Chat Models - 7047 - [arXiv](https://arxiv.org/abs/2307.09288)
-- 240723 - Llama 3.1 - The Llama 3 Herd of Models - 5 [paper](https://scontent.fsin15-2.fna.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=t6egZJ8QdI4Q7kNvgFtFzvs&_nc_ht=scontent.fsin15-2.fna&oh=00_AYB-GFK6fEfINdSp2aOXtidS6BdWj-eRNVdnni0UD70p3Q&oe=66A67B0D)
+- 240723 - Llama 3.1 - The Llama 3 Herd of Models - 5 [report](https://scontent.fsin15-2.fna.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=t6egZJ8QdI4Q7kNvgFtFzvs&_nc_ht=scontent.fsin15-2.fna&oh=00_AYB-GFK6fEfINdSp2aOXtidS6BdWj-eRNVdnni0UD70p3Q&oe=66A67B0D)
 ## 😋 Gemini
 - 231219 - Gemini - A Family of Highly Capable Multimodal Models - 1170 - [arXiv](https://arxiv.org/abs/2312.11805)
 - 240308 - Gemini 1.5 - Unlocking Multimodal Understanding across Millions of Tokens of Context - 232 - [arXiv](https://arxiv.org/abs/2403.05530)
