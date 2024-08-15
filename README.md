@@ -45,6 +45,7 @@ This repository serves as a central hub for all things related to Large Language
 - 200522 - RAG - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks - 3104 - [arXiv](https://arxiv.org/abs/2005.11401)
 - 240424 - Graph RAG -From Local to Global A Graph RAG Approach to Query-Focused Summarization - 10 - [arXiv](https://arxiv.org/abs/2404.16130)
 ## 💗 Feature
+- 160721 - Layer Normalization - Layer Normalization - 12166 - [arXiv](https://arxiv.org/abs/1607.06450)
 - 210226 - CLIP - Learning Transferable Visual Models From Natural Language Supervision - 19893 - [arXiv](https://arxiv.org/abs/2103.00020)
 - 220128 - Chain-of-Thought - Prompting Elicits Reasoning in Large Language Models - 6455 - [arXiv](https://arxiv.org/abs/2201.11903)
 ## 💡 Contributing
