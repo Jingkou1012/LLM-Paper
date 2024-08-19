@@ -6,13 +6,15 @@ This repository serves as a central hub for all things related to Large Language
 ## 📌 Template
 - YYMMDD - Term - Title - Citations - [link](https:)
 ---
-## 🎓 Survey
+## 📜 Survey
 - 230331 - Survey - A Survey of Large Language Models - 2070 - [arXiv](https://arxiv.org/abs/2303.18223)
 ---
 ## 👑 Transformer
 - 170612 - Transformer - Attention is All You Need - 129026 - [arXiv](https://arxiv.org/abs/1706.03762)
 - 181011 - BERT - Pre-Training of Deep Bidirectional Transformers for Language Understanding - 108937 - [arXiv](https://arxiv.org/abs/1810.04805)
 - 191023 - T5 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer - 17213 - [arXiv](https://arxiv.org/abs/1910.10683)
+---
+## ✨ Transformer+
 - 200526 - DETR - End-to-End Object Detection with Transformers - 12801 - [arXiv](https://arxiv.org/abs/2005.12872)
 - 201022 - ViT -An Image is Worth 16x16 Words Transformers for Image Recognition at Scale - 41454 - [arXiv](https://arxiv.org/abs/2010.11929)
 - 210325 - Swin Transformer - Hierarchical Vision Transformer using Shifted Windows - 20459 - [arXiv](https://arxiv.org/abs/2103.14030)
@@ -42,7 +44,7 @@ This repository serves as a central hub for all things related to Large Language
 - 170720 - Proximal Policy Optimization - Proximal Policy Optimization Algorithms - 19382 - [arXiv](https://arxiv.org/abs/1707.06347)
 - 200902 - Human Feedback - Learning to Summarize from Human Feedback - 1345 - [arXiv](https://arxiv.org/abs/2009.01325)
 ---
-## 📏 Fine-Tuning
+## 👨‍🔧 Fine-Tuning
 - 190202 - Adapter Tuning - Parameter-Efficient Transfer Learning for NLP - 3340 - [arXiv](https://arxiv.org/abs/1902.00751)
 - 210101 - Prefix Tuning - Optimizing Continuous Prompts for Generation - 3190 - [arXiv](https://arxiv.org/abs/2101.00190)
 - 210418 - Prompt Tuning - The Power of Scale for Parameter-Efficient Prompt Tuning - 2948 - [arXiv](https://arxiv.org/abs/2104.08691)
