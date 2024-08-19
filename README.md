@@ -15,7 +15,7 @@ This repository serves as a central hub for all things related to Large Language
 - 191023 - T5 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer - 17213 - [arXiv](https://arxiv.org/abs/1910.10683)
 - 191029 - BART - Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension - 10266 - [arXiv](https://arxiv.org/abs/1910.13461)
 ---
-## ✨ Transformer+
+## 📸 Transformer in Vision
 - 200526 - DETR - End-to-End Object Detection with Transformers - 12801 - [arXiv](https://arxiv.org/abs/2005.12872)
 - 201022 - ViT -An Image is Worth 16x16 Words Transformers for Image Recognition at Scale - 41454 - [arXiv](https://arxiv.org/abs/2010.11929)
 - 210325 - Swin Transformer - Hierarchical Vision Transformer using Shifted Windows - 20459 - [arXiv](https://arxiv.org/abs/2103.14030)
