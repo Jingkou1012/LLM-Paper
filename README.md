@@ -57,6 +57,9 @@ This repository serves as a central hub for all things related to Large Language
 ## 🔥 Feature
 - 160721 - Layer Normalization - Layer Normalization - 12166 - [arXiv](https://arxiv.org/abs/1607.06450)
 ---
+## 🧰 Tool
+- 230209 - Toolformer - Language Models Can Teach Themselves to Use Tools - 989 - [arXiv](https://arxiv.org/abs/2302.04761)
+---
 ## 📸 Transformer in Vision
 - 200526 - DETR - End-to-End Object Detection with Transformers - 12801 - [arXiv](https://arxiv.org/abs/2005.12872)
 - 201022 - ViT -An Image is Worth 16x16 Words Transformers for Image Recognition at Scale - 41454 - [arXiv](https://arxiv.org/abs/2010.11929)
