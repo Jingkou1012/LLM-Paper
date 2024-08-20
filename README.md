@@ -15,11 +15,6 @@ This repository serves as a central hub for all things related to Large Language
 - 191023 - T5 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer - 17213 - [arXiv](https://arxiv.org/abs/1910.10683)
 - 191029 - BART - Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension - 10266 - [arXiv](https://arxiv.org/abs/1910.13461)
 ---
-## 📸 Transformer in Vision
-- 200526 - DETR - End-to-End Object Detection with Transformers - 12801 - [arXiv](https://arxiv.org/abs/2005.12872)
-- 201022 - ViT -An Image is Worth 16x16 Words Transformers for Image Recognition at Scale - 41454 - [arXiv](https://arxiv.org/abs/2010.11929)
-- 210325 - Swin Transformer - Hierarchical Vision Transformer using Shifted Windows - 20459 - [arXiv](https://arxiv.org/abs/2103.14030)
----
 ## 🙂 GPT
 - 180611 - GPT - Improving Language Understanding by Generative Pre-Training - 10329 - [report](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - 190214 - GPT-2 - Language Models are Unsupervised Multitask Learners - 12538 - [report](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
@@ -59,8 +54,15 @@ This repository serves as a central hub for all things related to Large Language
 - 200522 - RAG - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks - 3104 - [arXiv](https://arxiv.org/abs/2005.11401)
 - 240424 - Graph RAG -From Local to Global A Graph RAG Approach to Query-Focused Summarization - 10 - [arXiv](https://arxiv.org/abs/2404.16130)
 ---
-## 💗 Feature
+## 🪄 Feature
 - 160721 - Layer Normalization - Layer Normalization - 12166 - [arXiv](https://arxiv.org/abs/1607.06450)
+---
+## 📸 Transformer in Vision
+- 200526 - DETR - End-to-End Object Detection with Transformers - 12801 - [arXiv](https://arxiv.org/abs/2005.12872)
+- 201022 - ViT -An Image is Worth 16x16 Words Transformers for Image Recognition at Scale - 41454 - [arXiv](https://arxiv.org/abs/2010.11929)
+- 210325 - Swin Transformer - Hierarchical Vision Transformer using Shifted Windows - 20459 - [arXiv](https://arxiv.org/abs/2103.14030)
+---
+## 💞 Multimodal
 - 210226 - CLIP - Learning Transferable Visual Models From Natural Language Supervision - 19893 - [arXiv](https://arxiv.org/abs/2103.00020)
 ---
 ## 💡 Contributing
