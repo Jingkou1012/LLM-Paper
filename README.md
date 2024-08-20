@@ -7,6 +7,7 @@ This repository serves as a central hub for all things related to Large Language
 - YYMMDD - Term - Title - Citation - [link](https:)
 ---
 ## 📜 Survey
+- 210728 - Survey - Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing - 3872 - [arXiv](https://arxiv.org/abs/2107.13586)
 - 230331 - Survey - A Survey of Large Language Models - 2070 - [arXiv](https://arxiv.org/abs/2303.18223)
 ---
 ## 👑 Transformer
