@@ -4,7 +4,7 @@ This repository serves as a central hub for all things related to Large Language
 
 ---
 ## 📌 Template
-- YYMMDD - Term - Title - Citations - [link](https:)
+- YYMMDD - Term - Title - [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7ffdbc358b63378f07311e883dddacc9faeeaf4b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/A-Survey-of-Large-Language-Models-Zhao-Zhou/c61d54644e9aedcfc756e5d6fe4cc8b78c87755d) - [link](https:)
 ---
 ## 📜 Survey
 - 230331 - Survey - A Survey of Large Language Models - 2070 - [arXiv](https://arxiv.org/abs/2303.18223)
