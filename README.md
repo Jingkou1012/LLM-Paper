@@ -68,6 +68,8 @@ This repository serves as a central hub for all things related to Large Language
 ## 💞 Multimodal
 - 210226 - CLIP - Learning Transferable Visual Models From Natural Language Supervision - 19893 - [arXiv](https://arxiv.org/abs/2103.00020)
 ---
+## 🧠 Artificial General Intelligence
+- 230322 - AGI - Sparks of Artificial General Intelligence: Early experiments with GPT-4 - 2604 - [arXiv](https://arxiv.org/abs/2303.12712)
 ## 💡 Contributing
 
 This project holds great significance for me, and I’m constantly seeking ways to improve it. If you have ideas, fixes, or even just suggestions, please share them! I’m open to discussing any pull requests, especially if we need to align them with the LLM’s goals.
