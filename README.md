@@ -9,12 +9,6 @@ This repository serves as a central hub for all things related to Large Language
 ## 📜 Survey
 - 230331 - Survey - A Survey of Large Language Models - 2070 - [arXiv](https://arxiv.org/abs/2303.18223)
 ---
-## 📝 Natural Langugae Processing
-- 971101 - BRNN - Bidirectional Recurrent Networks - 10861 - [IEEE](https://ieeexplore.ieee.org/abstract/document/650093)
-- 971115 - LSTM - Long Short-Term Memory - 109997 - [IEEE](https://ieeexplore.ieee.org/abstract/document/6795963/)
-- 130116 - Word2Vec - Efficient Estimation of Word Representations in Vector Space - 43194 - [arXiv](https://arxiv.org/abs/1301.3781)
-- 140910 - Seq2Seq - Sequence to Sequence Learning with Neural Networks - 26658 - [arXiv](https://arxiv.org/abs/1409.3215)
-- 141211 - GRU - Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling - 16809 - [arXiv](https://arxiv.org/abs/1412.3555)
 ## 👑 Transformer
 - 170612 - Transformer - Attention is All You Need - 129026 - [arXiv](https://arxiv.org/abs/1706.03762)
 - 181011 - BERT - Pre-Training of Deep Bidirectional Transformers for Language Understanding - 108937 - [arXiv](https://arxiv.org/abs/1810.04805)
@@ -60,9 +54,6 @@ This repository serves as a central hub for all things related to Large Language
 ## 📚 Retrieval Augmented Generation
 - 200522 - RAG - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks - 3104 - [arXiv](https://arxiv.org/abs/2005.11401)
 - 240424 - Graph RAG - From Local to Global A Graph RAG Approach to Query-Focused Summarization - 10 - [arXiv](https://arxiv.org/abs/2404.16130)
----
-## 🔥 Feature
-- 160721 - Layer Normalization - Layer Normalization - 12166 - [arXiv](https://arxiv.org/abs/1607.06450)
 ---
 ## 🧰 Tool
 - 230209 - Toolformer - Language Models Can Teach Themselves to Use Tools - 989 - [arXiv](https://arxiv.org/abs/2302.04761)
