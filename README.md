@@ -37,8 +37,9 @@ This repository serves as a central hub for all things related to Large Language
 ---
 ## 🚀 Reinforcement Learning from Human Feedback
 - 170612 - Reinforcement Learning - Deep Reinforcement Learning from Human Preferences - 2587 - [arXiv](https://arxiv.org/abs/1706.03741)
-- 170720 - Proximal Policy Optimization - Proximal Policy Optimization Algorithms - 19382 - [arXiv](https://arxiv.org/abs/1707.06347)
+- 170720 - PPO - Proximal Policy Optimization Algorithms - 19382 - [arXiv](https://arxiv.org/abs/1707.06347)
 - 200902 - Human Feedback - Learning to Summarize from Human Feedback - 1345 - [arXiv](https://arxiv.org/abs/2009.01325)
+- 230529 - DPO - Direct Preference Optimization: Your Language Model is Secretly a Reward Model - 1104 - [arXiv](https://arxiv.org/abs/2305.18290)
 ---
 ## 👨‍🔧 Fine-Tuning
 - 190202 - Adapter Tuning - Parameter-Efficient Transfer Learning for NLP - 3340 - [arXiv](https://arxiv.org/abs/1902.00751)
