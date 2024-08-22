@@ -53,7 +53,7 @@ This repository serves as a central hub for all things related to Large Language
 ---
 ## 📚 Retrieval Augmented Generation
 - 200522 - RAG - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks - 3104 - [arXiv](https://arxiv.org/abs/2005.11401)
-- 240424 - Graph RAG -From Local to Global A Graph RAG Approach to Query-Focused Summarization - 10 - [arXiv](https://arxiv.org/abs/2404.16130)
+- 240424 - Graph RAG - From Local to Global A Graph RAG Approach to Query-Focused Summarization - 10 - [arXiv](https://arxiv.org/abs/2404.16130)
 ---
 ## 🔥 Feature
 - 160721 - Layer Normalization - Layer Normalization - 12166 - [arXiv](https://arxiv.org/abs/1607.06450)
