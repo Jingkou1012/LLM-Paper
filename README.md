@@ -9,6 +9,8 @@ This repository serves as a central hub for all things related to Large Language
 ## 📜 Survey
 - 230331 - Survey - A Survey of Large Language Models - 2070 - [arXiv](https://arxiv.org/abs/2303.18223)
 ---
+## 📝 Natural Langugae Processing
+- 130116 - Word2Vec - Efficient Estimation of Word Representations in Vector Space - 43194 - [arXiv](https://arxiv.org/abs/1301.3781)
 ## 👑 Transformer
 - 170612 - Transformer - Attention is All You Need - 129026 - [arXiv](https://arxiv.org/abs/1706.03762)
 - 181011 - BERT - Pre-Training of Deep Bidirectional Transformers for Language Understanding - 108937 - [arXiv](https://arxiv.org/abs/1810.04805)
