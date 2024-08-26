@@ -1,4 +1,4 @@
-> The limits of my language mean the limites of my world. - Ludwig Wittgenstein
+> The limits of my language mean the limits of my world. - Ludwig Wittgenstein
 
 This repository serves as a central hub for all things related to Large Language Models (LLMs). Whether you’re a researcher, developer, or simply curious about LLMs, you’ll find valuable content here to enhance your understanding and work with these remarkable language models. 
 
