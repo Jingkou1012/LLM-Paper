@@ -4,7 +4,7 @@ This repository serves as a central hub for all things related to Large Language
 
 ---
 ## 📌 Template
-- YYMMDD - Term - Title - Citation - [link](https:)
+- YYMMDD - Term - Title - Citation - [link](https://www.arsenal.com)
 ---
 ## 📜 Survey
 - 230331 - Survey - A Survey of Large Language Models - 2070 - [arXiv](https://arxiv.org/abs/2303.18223)
@@ -34,6 +34,10 @@ This repository serves as a central hub for all things related to Large Language
 ## 🤭 Gemma
 - 240221 - Gemma - Open Models Based on Gemini Research and Technology - 302 - [report](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)
 - 240627 - Gemma 2 - Improving Open Language Models at a Practical Size - 2 - [report](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
+---
+## 😏 Mistral
+- 231010 - Mistral 7B - Mistral 7B - 497 - [arXiv](https://arxiv.org/abs/2310.06825)
+- 240108 - Mixtral 8x7B - Mixtral of Experts - 611 - [arXiv](https://arxiv.org/abs/2401.04088)
 ---
 ## 🚀 Reinforcement Learning from Human Feedback
 - 170612 - Reinforcement Learning - Deep Reinforcement Learning from Human Preferences - 2587 - [arXiv](https://arxiv.org/abs/1706.03741)
