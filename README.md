@@ -72,6 +72,13 @@ This repository serves as a central hub for all things related to Large Language
 ---
 ## 🧠 Artificial General Intelligence
 - 230322 - AGI - Sparks of Artificial General Intelligence: Early experiments with GPT-4 - 2604 - [arXiv](https://arxiv.org/abs/2303.12712)
+## 💂 Safety
+- 231207 - CyberSecEval - A Secure Coding Benchmark for Language Models - 29 - [arXiv](https://arxiv.org/abs/2312.04724)
+- 231207 - Llama Guard - LLM-based Input-Output Safeguard for Human-AI Conversations - 121 - [arXiv](https://arxiv.org/abs/2312.06674)
+- 240419 - CyberSecEval 2 - A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models - 8 - [arXiv](https://arxiv.org/abs/2404.13161)
+- 240731 - ShieldGemma - Generative AI Content Moderation Based on Gemma - 0 - [arXiv](https://arxiv.org/abs/2407.21772)
+- 240802 - CyberSecEval 3 - Advancing the Evaluation of Cybersecurity Risks and Capabilities in Large Language Models - 0 - [arXiv](https://arxiv.org/abs/2408.01605)
+---
 ## 💡 Contributing
 
 This project holds great significance for me, and I’m constantly seeking ways to improve it. If you have ideas, fixes, or even just suggestions, please share them! I’m open to discussing any pull requests, especially if we need to align them with the LLM’s goals.
