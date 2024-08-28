@@ -40,7 +40,7 @@ This repository serves as a central hub for all things related to Large Language
 - 231010 - Mistral 7B - Mistral 7B - 497 - [arXiv](https://arxiv.org/abs/2310.06825)
 - 240108 - Mixtral 8x7B - Mixtral of Experts - 611 - [arXiv](https://arxiv.org/abs/2401.04088)
 ---
-## 💞 LLaVA
+## 😎 LLaVA
 - 230417 - LLaVA - Visual Instruction Tuning - 2663 - [arXiv](https://arxiv.org/abs/2304.08485)
 - 231005 - LLaVA-1.5 - Improved Baselines with Visual Instruction Tuning - 810 - [arXiv](https://arxiv.org/abs/2310.03744)
 - 240710 - LLaVA-NeXT-Interleave - Tackling Multi-image, Video, and 3D in Large Multimodal Models - 2 - [arXiv](https://arxiv.org/abs/2407.07895)
