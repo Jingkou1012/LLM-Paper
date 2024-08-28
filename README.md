@@ -44,6 +44,7 @@ This repository serves as a central hub for all things related to Large Language
 - 230417 - LLaVA - Visual Instruction Tuning - 2663 - [arXiv](https://arxiv.org/abs/2304.08485)
 - 231005 - LLaVA-1.5 - Improved Baselines with Visual Instruction Tuning - 810 - [arXiv](https://arxiv.org/abs/2310.03744)
 - 240710 - LLaVA-NeXT-Interleave - Tackling Multi-image, Video, and 3D in Large Multimodal Models - 2 - [arXiv](https://arxiv.org/abs/2407.07895)
+- 240806 - LLaVA-OneVision - Easy Visual Task Transfer - 0 - [arXiv](https://arxiv.org/abs/2408.03326)
 ---
 ## 🚀 Reinforcement Learning from Human Feedback
 - 170612 - Reinforcement Learning - Deep Reinforcement Learning from Human Preferences - 2587 - [arXiv](https://arxiv.org/abs/1706.03741)
