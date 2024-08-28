@@ -14,6 +14,7 @@ This repository serves as a central hub for all things related to Large Language
 - 181011 - BERT - Pre-Training of Deep Bidirectional Transformers for Language Understanding - 108937 - [arXiv](https://arxiv.org/abs/1810.04805)
 - 191023 - T5 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer - 17213 - [arXiv](https://arxiv.org/abs/1910.10683)
 - 191029 - BART - Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension - 10266 - [arXiv](https://arxiv.org/abs/1910.13461)
+- 210226 - CLIP - Learning Transferable Visual Models From Natural Language Supervision - 19893 - [arXiv](https://arxiv.org/abs/2103.00020)
 ---
 ## 🙂 GPT
 - 180611 - GPT - Improving Language Understanding by Generative Pre-Training - 10329 - [report](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
@@ -38,6 +39,11 @@ This repository serves as a central hub for all things related to Large Language
 ## 😏 Mistral
 - 231010 - Mistral 7B - Mistral 7B - 497 - [arXiv](https://arxiv.org/abs/2310.06825)
 - 240108 - Mixtral 8x7B - Mixtral of Experts - 611 - [arXiv](https://arxiv.org/abs/2401.04088)
+---
+## 💞 LLaVA
+- 230417 - LLaVA - Visual Instruction Tuning - 2663 - [arXiv](https://arxiv.org/abs/2304.08485)
+- 231005 - LLaVA-1.5 - Improved Baselines with Visual Instruction Tuning - 810 - [arXiv](https://arxiv.org/abs/2310.03744)
+- 240710 - LLaVA-NeXT-Interleave - Tackling Multi-image, Video, and 3D in Large Multimodal Models - 2 - [arXiv](https://arxiv.org/abs/2407.07895)
 ---
 ## 🚀 Reinforcement Learning from Human Feedback
 - 170612 - Reinforcement Learning - Deep Reinforcement Learning from Human Preferences - 2587 - [arXiv](https://arxiv.org/abs/1706.03741)
@@ -66,9 +72,6 @@ This repository serves as a central hub for all things related to Large Language
 - 200526 - DETR - End-to-End Object Detection with Transformers - 12801 - [arXiv](https://arxiv.org/abs/2005.12872)
 - 201022 - ViT - An Image is Worth 16x16 Words Transformers for Image Recognition at Scale - 41454 - [arXiv](https://arxiv.org/abs/2010.11929)
 - 210325 - Swin Transformer - Hierarchical Vision Transformer using Shifted Windows - 20459 - [arXiv](https://arxiv.org/abs/2103.14030)
----
-## 💞 Multimodal
-- 210226 - CLIP - Learning Transferable Visual Models From Natural Language Supervision - 19893 - [arXiv](https://arxiv.org/abs/2103.00020)
 ---
 ## 🧠 Artificial General Intelligence
 - 230322 - AGI - Sparks of Artificial General Intelligence: Early experiments with GPT-4 - 2604 - [arXiv](https://arxiv.org/abs/2303.12712)
