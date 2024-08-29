@@ -69,6 +69,7 @@ This repository serves as a central hub for all things related to Large Language
 ---
 ## 📚 Retrieval Augmented Generation
 - 200522 - RAG - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks - 3104 - [arXiv](https://arxiv.org/abs/2005.11401)
+- 240315 - RAFT - Adapting Language Model to Domain Specifc RAG - 50 - [arXiv](https://arxiv.org/abs/2403.10131)
 - 240424 - Graph RAG - From Local to Global A Graph RAG Approach to Query-Focused Summarization - 10 - [arXiv](https://arxiv.org/abs/2404.16130)
 ---
 ## 🧰 Tool
