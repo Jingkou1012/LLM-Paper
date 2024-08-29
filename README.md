@@ -4,7 +4,7 @@ This repository serves as a central hub for all things related to Large Language
 
 ---
 ## 📌 Template
-- YYMMDD - Term - Title - Citation - [link](https:)
+- YYMMDD - Term - Title - Citation - [link](https://www.arsenal.com)
 ---
 ## 📜 Survey
 - 230331 - Survey - A Survey of Large Language Models - 2070 - [arXiv](https://arxiv.org/abs/2303.18223)
@@ -15,6 +15,11 @@ This repository serves as a central hub for all things related to Large Language
 - 191023 - T5 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer - 17213 - [arXiv](https://arxiv.org/abs/1910.10683)
 - 191029 - BART - Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension - 10266 - [arXiv](https://arxiv.org/abs/1910.13461)
 - 210226 - CLIP - Learning Transferable Visual Models From Natural Language Supervision - 19893 - [arXiv](https://arxiv.org/abs/2103.00020)
+---
+## 📸 Transformer in Vision
+- 200526 - DETR - End-to-End Object Detection with Transformers - 12801 - [arXiv](https://arxiv.org/abs/2005.12872)
+- 201022 - ViT - An Image is Worth 16x16 Words Transformers for Image Recognition at Scale - 41454 - [arXiv](https://arxiv.org/abs/2010.11929)
+- 210325 - Swin Transformer - Hierarchical Vision Transformer using Shifted Windows - 20459 - [arXiv](https://arxiv.org/abs/2103.14030)
 ---
 ## 🙂 GPT
 - 180611 - GPT - Improving Language Understanding by Generative Pre-Training - 10329 - [report](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
@@ -68,11 +73,6 @@ This repository serves as a central hub for all things related to Large Language
 ---
 ## 🧰 Tool
 - 230209 - Toolformer - Language Models Can Teach Themselves to Use Tools - 989 - [arXiv](https://arxiv.org/abs/2302.04761)
----
-## 📸 Transformer in Vision
-- 200526 - DETR - End-to-End Object Detection with Transformers - 12801 - [arXiv](https://arxiv.org/abs/2005.12872)
-- 201022 - ViT - An Image is Worth 16x16 Words Transformers for Image Recognition at Scale - 41454 - [arXiv](https://arxiv.org/abs/2010.11929)
-- 210325 - Swin Transformer - Hierarchical Vision Transformer using Shifted Windows - 20459 - [arXiv](https://arxiv.org/abs/2103.14030)
 ---
 ## 🧠 Artificial General Intelligence
 - 230322 - AGI - Sparks of Artificial General Intelligence: Early experiments with GPT-4 - 2604 - [arXiv](https://arxiv.org/abs/2303.12712)
