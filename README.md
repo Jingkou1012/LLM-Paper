@@ -22,8 +22,8 @@ This repository serves as a central hub for all things related to Large Language
 - 210325 - Swin Transformer - Hierarchical Vision Transformer using Shifted Windows - 20459 - [arXiv](https://arxiv.org/abs/2103.14030)
 ---
 ## 🚩 Feature
-200123 - Scaling Law - Scaling Laws for Neural Language Models - 1972 - [arXiv](https://arxiv.org/abs/2001.08361)
-220615 - Emergent Ability - Emergent Abilities of Large Language Models - 2028 - [arXiv](https://arxiv.org/abs/2206.07682)
+- 200123 - Scaling Law - Scaling Laws for Neural Language Models - 1972 - [arXiv](https://arxiv.org/abs/2001.08361)
+- 220615 - Emergent Ability - Emergent Abilities of Large Language Models - 2028 - [arXiv](https://arxiv.org/abs/2206.07682)
 ---
 ## 🙂 GPT
 - 180611 - GPT - Improving Language Understanding by Generative Pre-Training - 10329 - [report](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
