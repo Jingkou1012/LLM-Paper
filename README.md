@@ -21,6 +21,10 @@ This repository serves as a central hub for all things related to Large Language
 - 201022 - ViT - An Image is Worth 16x16 Words Transformers for Image Recognition at Scale - 41454 - [arXiv](https://arxiv.org/abs/2010.11929)
 - 210325 - Swin Transformer - Hierarchical Vision Transformer using Shifted Windows - 20459 - [arXiv](https://arxiv.org/abs/2103.14030)
 ---
+## 🚩 Feature
+200123 - Scaling Law - Scaling Laws for Neural Language Models - 1972 - [arXiv](https://arxiv.org/abs/2001.08361)
+220615 - Emergent Ability - Emergent Abilities of Large Language Models - 2028 - [arXiv](https://arxiv.org/abs/2206.07682)
+---
 ## 🙂 GPT
 - 180611 - GPT - Improving Language Understanding by Generative Pre-Training - 10329 - [report](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - 190214 - GPT-2 - Language Models are Unsupervised Multitask Learners - 12538 - [report](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
@@ -66,6 +70,7 @@ This repository serves as a central hub for all things related to Large Language
 ---
 ## 👍 Prompting
 - 220128 - Chain-of-Thought - Prompting Elicits Reasoning in Large Language Models - 6455 - [arXiv](https://arxiv.org/abs/2201.11903)
+- 221006 - ReAct - Synergizing Reasoning and Acting in Language Models - 1291 - [arXiv](https://arxiv.org/abs/2210.03629)
 ---
 ## 📚 Retrieval Augmented Generation
 - 200522 - RAG - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks - 3104 - [arXiv](https://arxiv.org/abs/2005.11401)
