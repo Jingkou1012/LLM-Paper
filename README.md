@@ -31,6 +31,9 @@ This repository serves as a central hub for all things related to Large Language
 - 200528 - GPT-3 - Language Models are Few-Shot Learners - 29926 - [arXiv](https://arxiv.org/abs/2005.14165)
 - 220304 - InstructGPT - Training language models to follow instructions with human feedback - 8115 - [arXiv](https://arxiv.org/abs/2203.02155)
 - 230315 - GPT-4 - Technical Report - 2858 - [arXiv](https://arxiv.org/abs/2303.08774)
+- 230925 - GPT-4V(ision) System Card - [report](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
+- 240808 - GPT-4o System Card - [report](https://cdn.openai.com/gpt-4o-system-card.pdf)
+- 240912 - OpenAI o1 System Card - [report](https://assets.ctfassets.net/kftzwdyauwt9/67qJD51Aur3eIc96iOfeOP/71551c3d223cd97e591aa89567306912/o1_system_card.pdf)
 ---
 ## 😊 Llama
 - 230227 - Llama - Open and Efficient Foundation Language Models - 7880 - [arXiv](https://arxiv.org/abs/2302.13971)
