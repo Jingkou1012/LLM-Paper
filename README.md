@@ -25,7 +25,7 @@ This repository serves as a central hub for all things related to Large Language
 - 200123 - Scaling Law - Scaling Laws for Neural Language Models - 1972 - [arXiv](https://arxiv.org/abs/2001.08361)
 - 220615 - Emergent Ability - Emergent Abilities of Large Language Models - 2028 - [arXiv](https://arxiv.org/abs/2206.07682)
 ---
-## 🙂 GPT
+## 🤖 GPT
 - 180611 - GPT - Improving Language Understanding by Generative Pre-Training - 10329 - [report](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - 190214 - GPT-2 - Language Models are Unsupervised Multitask Learners - 12538 - [report](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 - 200528 - GPT-3 - Language Models are Few-Shot Learners - 29926 - [arXiv](https://arxiv.org/abs/2005.14165)
@@ -33,26 +33,28 @@ This repository serves as a central hub for all things related to Large Language
 - 230315 - GPT-4 - Technical Report - 2858 - [arXiv](https://arxiv.org/abs/2303.08774)
 - 230925 - GPT-4V(ision) System Card - [report](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
 - 240808 - GPT-4o System Card - [report](https://cdn.openai.com/gpt-4o-system-card.pdf)
+---
+## 💭 o1
 - 240912 - OpenAI o1 System Card - [report](https://assets.ctfassets.net/kftzwdyauwt9/67qJD51Aur3eIc96iOfeOP/71551c3d223cd97e591aa89567306912/o1_system_card.pdf)
 ---
-## 😊 Llama
+## 🦙 Llama
 - 230227 - Llama - Open and Efficient Foundation Language Models - 7880 - [arXiv](https://arxiv.org/abs/2302.13971)
 - 230718 - Llama 2 - Open Foundation and Fine-Tuned Chat Models - 7047 - [arXiv](https://arxiv.org/abs/2307.09288)
 - 240723 - Llama 3.1 - The Llama 3 Herd of Models - 5 - [report](https://scontent.fsin15-2.fna.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=t6egZJ8QdI4Q7kNvgFtFzvs&_nc_ht=scontent.fsin15-2.fna&oh=00_AYB-GFK6fEfINdSp2aOXtidS6BdWj-eRNVdnni0UD70p3Q&oe=66A67B0D)
 ---
-## 😋 Gemini
+## ♊ Gemini
 - 231219 - Gemini - A Family of Highly Capable Multimodal Models - 1170 - [arXiv](https://arxiv.org/abs/2312.11805)
 - 240308 - Gemini 1.5 - Unlocking Multimodal Understanding across Millions of Tokens of Context - 232 - [arXiv](https://arxiv.org/abs/2403.05530)
 ---
-## 🤭 Gemma
+## 💎 Gemma
 - 240221 - Gemma - Open Models Based on Gemini Research and Technology - 302 - [report](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)
 - 240627 - Gemma 2 - Improving Open Language Models at a Practical Size - 2 - [report](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
 ---
-## 😏 Mistral
+## 🍃 Mistral
 - 231010 - Mistral 7B - Mistral 7B - 497 - [arXiv](https://arxiv.org/abs/2310.06825)
 - 240108 - Mixtral 8x7B - Mixtral of Experts - 611 - [arXiv](https://arxiv.org/abs/2401.04088)
 ---
-## 😎 LLaVA
+## 📸 LLaVA
 - 230417 - LLaVA - Visual Instruction Tuning - 2663 - [arXiv](https://arxiv.org/abs/2304.08485)
 - 231005 - LLaVA-1.5 - Improved Baselines with Visual Instruction Tuning - 810 - [arXiv](https://arxiv.org/abs/2310.03744)
 - 240710 - LLaVA-NeXT-Interleave - Tackling Multi-image, Video, and 3D in Large Multimodal Models - 2 - [arXiv](https://arxiv.org/abs/2407.07895)
