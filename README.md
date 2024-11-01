@@ -95,6 +95,16 @@ This repository serves as a central hub for all things related to Large Language
 - 240731 - ShieldGemma - Generative AI Content Moderation Based on Gemma - 0 - [arXiv](https://arxiv.org/abs/2407.21772)
 - 240802 - CyberSecEval 3 - Advancing the Evaluation of Cybersecurity Risks and Capabilities in Large Language Models - 0 - [arXiv](https://arxiv.org/abs/2408.01605)
 ---
+## ❓ Qwen
+- 230824 - Qwen-VL - A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond - 329 - [arXiv](https://arxiv.org/abs/2308.12966)
+- 230928 - Qwen - Technical Report - 1210 - [arXiv](https://arxiv.org/abs/2309.16609)
+- 231221 - Qwen-Audio - Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models - 143 - [arXiv](https://arxiv.org/abs/2311.07919)
+- 240715 - Qwen2 - Technical Report - 314 - [arXiv](https://arxiv.org/abs/2407.10671)
+- 240715 - Qwen2-Audio - Technical Report - 35 - [arXiv](https://arxiv.org/abs/2407.10759)
+- 240918 - Qwen2.5-Coder - Technical Report - 13 - [arXiv](https://arxiv.org/abs/2409.12186)
+- 240918 - Qwen2.5-Math - Technical Report - Toward Mathematical Expert Model via Self-Improvement - 8 - [arXiv](https://arxiv.org/abs/2409.12122)
+- 240918 - Qwen2-VL - Enhancing Vision-Language Model's Perception of the World at Any Resolution - 30 - [arXiv](https://arxiv.org/abs/2409.12191)
+---
 ## 💡 Contributing
 
 This project holds great significance for me, and I’m constantly seeking ways to improve it. If you have ideas, fixes, or even just suggestions, please share them! I’m open to discussing any pull requests, especially if we need to align them with the LLM’s goals.
